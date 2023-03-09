@@ -1,0 +1,10 @@
+.about-container {
+    margin: 5vh 10vw;
+}
+
+.about-container p {
+    color: white;
+    max-width: 60%;
+    font-size: 2em;
+    font-family: 'Raleway', sans-serif;
+}
