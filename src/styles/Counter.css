@@ -1,0 +1,21 @@
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.counter-display {
+    text-align: center;
+}
+
+.counter-button {
+    width: 20%;
+    background: inherit;
+    color: white;
+    cursor: pointer;
+    border: 2px solid white;
+    margin: 2vh;
+    box-shadow: 0 0 0.5em white;
+}
