@@ -8,7 +8,7 @@ function Intro() {
                 <div className="typewriter">
                     <h1>Andrew Lee.</h1>
                 </div>
-                <h4>I'm studying <span className="alternate-color">Computer Science, International Relations, and Cybersecurity</span> at Georgetown University.</h4>
+                <h4>I'm studying Computer Science, International Relations, and Cybersecurity at Georgetown University.</h4>
                 <button>Scroll for More</button>
             </div>
         </div>

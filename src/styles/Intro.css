@@ -7,10 +7,13 @@
 
 .intro {
     color: white;
+    height: 90vh;
+    display: flex;
+    align-items: center;
 }
 
 .intro-container {
-    margin: 15vh 10vw;
+    margin: 0 10vw;
 }
 
 .intro-container h3 {
